@@ -1,16 +1,20 @@
-﻿namespace BookReadings.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BookReadings.Models;
 
 public class BookReadingsModel
 {
-    public Guid Id { get; init; }
+    [Key]
+    public int Id { get; init; }
     public string Title { get; set; }
+    public string Author { get; set; }
     public string MonthOfTheYear { get; set; }
     public int Year { get; set; }
 
-    public BookReadingsModel(string title, string monthOfTheYear, int year)
+    public BookReadingsModel(string title, string author, string monthOfTheYear, int year)
     {
-        Id = new Guid();
         Title = title;
+        Author = author;
         MonthOfTheYear = monthOfTheYear;
         Year = year;
     }
