@@ -5,9 +5,9 @@ public class BookReadingsModel
     public Guid Id { get; init; }
     public string Title { get; set; }
     public string MonthOfTheYear { get; set; }
-    public string Year { get; set; }
+    public int Year { get; set; }
 
-    public BookReadingsModel(string title, string monthOfTheYear, string year)
+    public BookReadingsModel(string title, string monthOfTheYear, int year)
     {
         Id = new Guid();
         Title = title;

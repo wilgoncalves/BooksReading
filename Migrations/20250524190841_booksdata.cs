@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BookReadings.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class booksdata : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -18,7 +18,7 @@ namespace BookReadings.Migrations
                     Id = table.Column<Guid>(type: "TEXT", nullable: false),
                     Title = table.Column<string>(type: "TEXT", nullable: false),
                     MonthOfTheYear = table.Column<string>(type: "TEXT", nullable: false),
-                    Year = table.Column<string>(type: "TEXT", nullable: false)
+                    Year = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {

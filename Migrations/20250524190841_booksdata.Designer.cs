@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookReadings.Migrations
 {
     [DbContext(typeof(BookContext))]
-    [Migration("20250523185654_Initial")]
-    partial class Initial
+    [Migration("20250524190841_booksdata")]
+    partial class booksdata
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,9 +34,8 @@ namespace BookReadings.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Year")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Year")
+                        .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
