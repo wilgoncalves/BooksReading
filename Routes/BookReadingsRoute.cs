@@ -16,6 +16,8 @@ public static class BookReadingsRoute
 
             await context.AddAsync(book);
             await context.SaveChangesAsync();
+
+            return Results.Ok(book);
         });
 
         route.MapGet("", async (BookContext context) =>
@@ -38,6 +40,19 @@ public static class BookReadingsRoute
             await context.SaveChangesAsync();
 
             return Results.Ok(book);
+        });
+
+        route.MapDelete("{id:int}", async (int id, BookContext context) =>
+        {
+            var book = await context.Books.FirstOrDefaultAsync(x => x.Id == id);
+
+            if (book == null)
+                return Results.NotFound();
+
+            context.Remove(book);
+            await context.SaveChangesAsync();
+
+            return Results.Ok();
         });
     }
 }
