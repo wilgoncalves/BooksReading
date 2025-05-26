@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/person": {
+    "/book": {
       "post": {
         "tags": [
           "BookReadings"
@@ -37,7 +37,7 @@
         }
       }
     },
-    "/person/{id}": {
+    "/book/{id}": {
       "put": {
         "tags": [
           "BookReadings"

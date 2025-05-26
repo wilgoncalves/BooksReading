@@ -2,7 +2,7 @@
   {
     "ContainingType": "BookReadings.Routes.BookReadingsRoute\u002B\u003C\u003Ec",
     "Method": "\u003CBookReadingsRoutes\u003Eb__0_0",
-    "RelativePath": "person/",
+    "RelativePath": "book/",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -24,7 +24,7 @@
   {
     "ContainingType": "BookReadings.Routes.BookReadingsRoute\u002B\u003C\u003Ec",
     "Method": "\u003CBookReadingsRoutes\u003Eb__0_1",
-    "RelativePath": "person/",
+    "RelativePath": "book/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -40,7 +40,7 @@
   {
     "ContainingType": "BookReadings.Routes.BookReadingsRoute\u002B\u003C\u003Ec",
     "Method": "\u003CBookReadingsRoutes\u003Eb__0_2",
-    "RelativePath": "person/{id:int}",
+    "RelativePath": "book/{id:int}",
     "HttpMethod": "PUT",
     "IsController": false,
     "Order": 0,
@@ -67,7 +67,7 @@
   {
     "ContainingType": "BookReadings.Routes.BookReadingsRoute\u002B\u003C\u003Ec",
     "Method": "\u003CBookReadingsRoutes\u003Eb__0_3",
-    "RelativePath": "person/{id:int}",
+    "RelativePath": "book/{id:int}",
     "HttpMethod": "DELETE",
     "IsController": false,
     "Order": 0,

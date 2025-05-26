@@ -8,7 +8,7 @@ public static class BookReadingsRoute
 {
     public static void BookReadingsRoutes(this WebApplication app)
     {
-        var route = app.MapGroup("person");
+        var route = app.MapGroup("book");
 
         route.MapPost("", async (BookReadingsRequest request, BookContext context) =>
         {
