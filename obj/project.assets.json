@@ -3267,11 +3267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\BookReadings.csproj",
+      "projectUniqueName": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\BookReadings\\BookReadings.csproj",
       "projectName": "BookReadings",
-      "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\BookReadings.csproj",
+      "projectPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\BookReadings\\BookReadings.csproj",
       "packagesPath": "C:\\Users\\wilsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\obj\\",
+      "outputPath": "C:\\Users\\wilsa\\OneDrive\\Desktop\\C#\\BookReadings\\BookReadings\\BookReadings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
