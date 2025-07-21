@@ -366,7 +366,6 @@ C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookR
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\System.Composition.Hosting.dll
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -465,12 +464,6 @@ C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookR
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets\msbuild.BookReadings.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets\msbuild.BookReadings.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets\msbuild.build.BookReadings.props
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BookReadings.props
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BookReadings.props
-C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\BookRead.007BE6F2.Up2Date
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\BookReadings.dll
@@ -478,3 +471,8 @@ C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookR
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\BookReadings.pdb
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\BookReadings.genruntimeconfig.cache
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\ref\BookReadings.dll
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.build.json.cache
