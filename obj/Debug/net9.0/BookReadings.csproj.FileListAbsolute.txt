@@ -476,3 +476,4 @@ C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookR
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\wilsa\OneDrive\Desktop\Minhas Pastas\C#\BookReadings\BookReadings\BookReadings\obj\Debug\net9.0\swae.build.ex.cache
